@@ -1,0 +1,8 @@
+Keep your existing images in this src folder with these exact filenames:
+DSC09623.JPG
+Engagement_Thumbnail.png
+Engagement.jpeg
+1Z2A9963.JPG
+
+The wedding song has already been added as:
+wedding-song.mp3
